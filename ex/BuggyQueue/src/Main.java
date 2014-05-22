@@ -5,7 +5,7 @@ import java.util.List;
 public class Main
 { 
    /* 
-    * @class BuggyQueue boogie boogie
+    * @class BuggyQueue boogie boogie marta
     *
     * @brief This class doesn't work properly when accessed via
     *        multiple threads since it's not synchronized properly.
